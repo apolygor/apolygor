@@ -3,7 +3,7 @@
 Here you can find projects and tasks I do as a student at MIPT. 
 And also there're some tasks unrelated to my university which I found helpful.
 
-
+<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FdNgK7Ws7y176U%2F200.gif%3Fcid%3D790b76116sj9hwgvfynbehhaaxullhjyari9qz4aniwgxj60%26rid%3D200.gif%26ct%3Dg&f=1&nofb=1&ipt=24da3d913da059d2d9f492d6546f5a3101c296293b54ce4fe9e2cc5372179afc&ipo=images">
 <!--
 **pol879/pol879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
